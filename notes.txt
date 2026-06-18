@@ -1,3 +1,3 @@
 Hello Git
-sihat ka tu?
-Learning Git
+Sihat ka tu?
+Learning remote
